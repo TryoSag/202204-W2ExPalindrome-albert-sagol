@@ -1,0 +1,26 @@
+{
+  "name": "202204-w2expalindrome-albert-sagol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TryoSag/202204-W2ExPalindrome-albert-sagol.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TryoSag/202204-W2ExPalindrome-albert-sagol/issues"
+  },
+  "homepage": "https://github.com/TryoSag/202204-W2ExPalindrome-albert-sagol#readme",
+  "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "husky": "^7.0.0",
+    "jest": "^27.5.1"
+  }
+}
